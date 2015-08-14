@@ -20,6 +20,10 @@ background-color: #666;
 padding:10px;
 } 
 
+.a{
+ margin:0 10 0 700;
+}
+
 #footer {
 position:absolute;
 width: 70%;
@@ -32,16 +36,12 @@ clear:both;
 display: inline-block;
 background-color: #666;
 padding:10px;
-
+ color:ffffff;
 } 
 
-.p{
- padding-left:35%;
- color:ffffff;
-}
 
 #tablazat{
-  padding-top:50px;
+  padding-top:80px;
 }
 .menubutton {text-align:center;
 color:ffffff;
@@ -51,13 +51,14 @@ top:10px;
 padding-left:20px;
 }
 .h1{
-font-size: 50;
+color:#20b6d6;
+font-size: 100;
 font-weight:600;
 font-size:italic;
 display: inline
 }
 
-.vip
+.wip
  {
  text-align:center;
  font-size: 25;

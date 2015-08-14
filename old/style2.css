@@ -1,15 +1,9 @@
-
-
 #index{
   margin: 0 auto;
   width: 70%;
   clear: both;
 }
-a{
- text-decoration:none;
-} 
-
-#header {
+.header {
 position:absolute;
 width: 70%;
 height: 45px;
@@ -20,12 +14,8 @@ clear:both;
 display: inline-block;
 background-color: #666;
 padding:10px;
-}
- 
-.a{
-margin:0 10 0 700;
-}
- 
+} 
+
 #footer {
 position:absolute;
 width: 70%;
@@ -38,50 +28,30 @@ clear:both;
 display: inline-block;
 background-color: #666;
 padding:10px;
- color:ffffff;
+
 } 
 
+.p{
+ padding-left:35%;
+ color:ffffff;
+}
+
+#tablazat{
+  padding-top:50px;
+}
 .menubutton {text-align:center;
 color:ffffff;
 font-size: 25;
 font-weight:400;
-top:10px;
-padding-left:20px;
+top:10px
 }
-.h1{ 
-color:#20b6d6;
-font-size: 100;
+.h1{
+font-size: 50;
 font-weight:600;
 font-size:italic;
 display: inline
 }
 
-#middle{
-position:absolute;
-width: 70%;
-height: 415px;
-border-radius:5px;
--moz-border-radius:5px;
--webkit-border-radius:5px;
-clear:both;
-display: inline-block;
-background-color: #e4dfdc;
-margin:60 0 0 10;
-overflow:auto;
-}
-
-
-#mese{
-padding:25px;
-
-}
-
-.wip
- {
- text-align:center;
- font-size: 25;
-font-weight:400;
-color:04f921;
-top:10px;
+.menubutton{
 padding-left:20px;
 }
