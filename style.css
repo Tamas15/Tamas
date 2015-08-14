@@ -1,0 +1,35 @@
+body {
+  backdround-image: url('img/bg.png');
+  color:#000305;
+  font-size:87.5%;
+  font-family:Arial,'Lucinda Sans Unicode';
+  line-height:1.5;
+  text-align:left;
+}
+
+a {
+  text-decoration:none;
+}
+
+a:link, a:visited {
+  
+}
+a: hover,a:active;{
+  
+}
+
+#index{
+  margin: 0 auto;
+  width: 70%;
+  clear: both;
+}
+
+.mainHeder img{
+  width: 3o%;
+  height: auto;
+  margin: 2% 0;
+}
+
+
+
+
